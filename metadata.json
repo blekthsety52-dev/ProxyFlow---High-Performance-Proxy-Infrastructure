@@ -1,0 +1,5 @@
+{
+  "name": "ProxyFlow - High Performance Proxy Infrastructure",
+  "description": "A professional proxy management system featuring intelligent rotation, real-time health monitoring, and a high-concurrency backend.",
+  "requestFramePermissions": []
+}
